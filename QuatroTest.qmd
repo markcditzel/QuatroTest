@@ -1,6 +1,6 @@
 ---
 title: "TestingQuatro"
-format: html
+format: gfm
 editor: visual
 ---
 
